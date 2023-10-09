@@ -44,7 +44,7 @@ use MailchimpTransactional\ObjectSerializer;
  */
 class TemplatesApi
 {
-    protected $Configuration;
+    protected Configuration $config;
 
     public function __construct(Configuration $config = null)
     {
