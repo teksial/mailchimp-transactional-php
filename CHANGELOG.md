@@ -2,6 +2,9 @@
 
 ## Transactional
 
+### 1.0.52
+* Fix public access to properties of Configuration
+
 ### 1.0.51
 * Fix compatible with php 8.2
 ### 1.0.50
